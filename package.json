@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.4.3",
     "vue": "^2.6.10",
-    "webdatarocks": "^1.1.0"
+    "webdatarocks": "latest"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
