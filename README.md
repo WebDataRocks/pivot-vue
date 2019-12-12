@@ -1,4 +1,4 @@
-# pivot-vue
+# Pivot Table Component for Vue.js
 
 ## Project setup
 ```
