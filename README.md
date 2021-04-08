@@ -1,24 +1,15 @@
-# Pivot Table Component for Vue.js
+# WebDataRocks integration with the Vue framework
 
-## Project setup
-```
-npm install
-```
+## Get WebDataRocks
 
-### Compiles and hot-reloads for development
-```
+WebDataRocks is a free reporting tool. [Get it here](https://www.webdatarocks.com/get-webdatarocks/).
+
+## Running this project
+
+1. Download or clone this sample project from GitHub.
+2. Install npm packages by running in the console:
+`npm install`
+3. Run your application:
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Your application will run at `http://localhost:8080/`.
+For more details on the integration, see this guide: [Integration with Vue](https://www.webdatarocks.com/doc/integration-with-vue/).
