@@ -1,17 +1,13 @@
 <template>
   <div id="app">
-    <WebDataRocks report="https://cdn.webdatarocks.com/reports/report.json" toolbar></WebDataRocks>
+    <Pivot report="https://cdn.webdatarocks.com/reports/report.json" toolbar></Pivot>
   </div>
 </template>
 
 <script>
-import WebDataRocks from './components/WebDataRocks.vue'
 
 export default {
-  name: 'app',
-  components: {
-    WebDataRocks
-  }
+  name: 'app'
 }
 </script>
 

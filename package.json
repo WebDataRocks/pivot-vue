@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.4.3",
     "vue": "^2.6.10",
+    "vue-webdatarocks": "^1.3.3",
     "webdatarocks": "latest"
   },
   "devDependencies": {
