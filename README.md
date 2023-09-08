@@ -13,7 +13,7 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 git clone https://github.com/WebDataRocks/pivot-vue.git
 cd pivot-vue
 ```
-3. Install npm packages:
+2. Install npm packages:
 ```
 npm install
 ```
