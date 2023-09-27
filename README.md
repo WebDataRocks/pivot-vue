@@ -9,16 +9,16 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 ## Run the project
 
 1. Download or clone this project from GitHub:
-```
+```bash
 git clone https://github.com/WebDataRocks/pivot-vue.git
 cd pivot-vue
 ```
 2. Install npm packages:
-```
+```bash
 npm install
 ```
 3. Run the project:
-```
+```bash
 npm run serve
 ```
 You can access the project at `http://localhost:8080/`.
