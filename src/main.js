@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-import Pivot from "vue-webdatarocks";
-import 'webdatarocks/webdatarocks.css';
+import Pivot from "@webdatarocks/vue-webdatarocks";
+import '@webdatarocks/webdatarocks/webdatarocks.min.css';
 
 Vue.use(Pivot);
 
