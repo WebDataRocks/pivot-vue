@@ -2,6 +2,7 @@
   "name": "pivot-vue",
   "version": "0.1.0",
   "private": true,
+  "description": "Example of integrating WebDataRocks Pivot Table with the Vue 2 framework",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
