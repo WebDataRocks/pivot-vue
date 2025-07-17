@@ -25,7 +25,7 @@ You can access the project at `http://localhost:8080/`.
 
 ## Related docs
 
-For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/integration-with-vue/).
+For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/how-to-start-online-reporting/).
 
 ## Support
 
