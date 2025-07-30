@@ -1,15 +1,17 @@
-<template>
-  <div id="app">
-    <Pivot report="https://cdn.webdatarocks.com/reports/report.json" toolbar></Pivot>
-  </div>
-</template>
-
-<script>
-
-export default {
-  name: 'app'
-}
+<script setup>
+import { Pivot } from "@webdatarocks/vue-webdatarocks";
+import TopMenu from "./components/TopMenu.vue";
+import "@webdatarocks/webdatarocks/webdatarocks.css";
 </script>
 
-<style>
-</style>
+<template>
+  <div id="container">
+    <TopMenu />
+    <div id="pivot">
+      <Pivot 
+         report="https://cdn.webdatarocks.com/reports/report.json"
+         toolbar
+      />
+    </div>
+  </div>
+</template>
