@@ -4,7 +4,7 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 
 ## Prerequisites
 
-- [Node.js 8 or later](https://nodejs.org/en/)
+- [Node.js 20 or later](https://nodejs.org/en/)
 
 ## Run the project
 

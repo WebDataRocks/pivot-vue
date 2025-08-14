@@ -1,19 +1,21 @@
 {
-  "name": "vue-project",
+  "name": "pivot-vue",
+  "license": "MIT",
+  "description": "Example of integrating the WebDataRocks Pivot Table component with the Vue 2 framework",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build",
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "@webdatarocks/vue-webdatarocks": "^1.4.19",
+    "@webdatarocks/vue-webdatarocks": "latest",
     "vue": "^2.7.7"
   },
   "devDependencies": {
-    "@vitejs/plugin-legacy": "^2.0.0",
-    "@vitejs/plugin-vue2": "^1.1.2",
+    "@vitejs/plugin-legacy": "^6.1.1",
+    "@vitejs/plugin-vue2": "^2.3.3",
     "terser": "^5.14.2",
-    "vite": "^3.0.2"
+    "vite": "^6.0.0"
   }
 }

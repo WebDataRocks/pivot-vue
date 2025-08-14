@@ -11,6 +11,7 @@ import "@webdatarocks/webdatarocks/webdatarocks.css";
       <Pivot 
          report="https://cdn.webdatarocks.com/reports/report.json"
          toolbar
+         height="600"
       />
     </div>
   </div>
