@@ -1,4 +1,5 @@
 # Example of integrating WebDataRocks with the Vue 2 framework
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/vue.png)](https://www.webdatarocks.com/?r=sample_vue)
 
 This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Vue 2 framework](https://v2.vuejs.org/).
 
