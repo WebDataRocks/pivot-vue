@@ -21,12 +21,12 @@ npm install
 ```bash
 npm run serve
 ```
-You can access the project at `http://localhost:8080/`.
+You can access the project at `http://localhost:5173/`.
 
 ## Related docs
 
-For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting/).
+For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting?r=gh_sample_vue).
 
 ## Support
 
-For WebDataRocks-related questions, bug reports, and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
+For WebDataRocks-related questions, bug reports, and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues?r=gh_sample_vue).
