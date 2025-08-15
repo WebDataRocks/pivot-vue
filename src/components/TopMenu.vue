@@ -1,21 +1,21 @@
 <template>
   <header class="mainheader fixed-head">
     <div class="container-xl">
-      <a href="https://www.webdatarocks.com/?r=rm_vue" target="blank" rel="noopener noreferrer" class="logo">
+      <a href="https://www.webdatarocks.com/?r=gh_sample_vue" target="blank" rel="noopener noreferrer" class="logo">
         <img src="https://www.webdatarocks.com/base/assets/img/logo.svg" alt="" />
       </a>
       <ul class="mainnav">
         <li>
-          <a href="https://www.webdatarocks.com/demos/vue/pivot-table-demo/?r=rm_vue" target="blank" rel="noopener noreferrer">Demos</a>
+          <a href="https://www.webdatarocks.com/demos/vue/pivot-table-demo/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Demos</a>
         </li>
         <li>
-          <a href="https://www.webdatarocks.com/doc/integration-with-vue/?r=rm_vue" target="blank" rel="noopener noreferrer">Integration with Vue</a>
+          <a href="https://www.webdatarocks.com/doc/integration-with-vue/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Integration with Vue</a>
         </li>
         <li>
-          <a href="https://www.webdatarocks.com/doc/vue/intro?r=rm_vue" target="blank" rel="noopener noreferrer">Docs</a>
+          <a href="https://www.webdatarocks.com/doc/vue/intro?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Docs</a>
         </li>
         <li>
-          <a href="https://www.webdatarocks.com/about-us/?r=rm_vue" target="blank" rel="noopener noreferrer">About us</a>
+          <a href="https://www.webdatarocks.com/about-us/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">About us</a>
         </li>
       </ul>
     </div>
