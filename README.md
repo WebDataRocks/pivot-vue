@@ -5,7 +5,7 @@ This repository contains a sample project that shows how to integrate [WebDataRo
 
 ## Prerequisites
 
-- [Node.js 20 or later](https://nodejs.org/en/)
+- [Node.js 18 or later](https://nodejs.org/en/)
 
 ## Run the project
 
@@ -20,7 +20,7 @@ npm install
 ```
 3. Run the project:
 ```bash
-npm run serve
+npm run dev
 ```
 You can access the project at `http://localhost:5173/`.
 
