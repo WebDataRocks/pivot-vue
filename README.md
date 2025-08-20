@@ -30,4 +30,4 @@ For details on how to integrate WebDataRocks into existing Vue projects, check o
 
 ## Support
 
-For WebDataRocks-related questions, bug reports, and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues?r=rm_vue).
+For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues?r=rm_vue).
