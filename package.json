@@ -1,43 +1,21 @@
 {
   "name": "pivot-vue",
-  "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
   "description": "Example of integrating the WebDataRocks Pivot Table component with the Vue 2 framework",
+  "version": "0.0.0",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "core-js": "^3.4.3",
-    "vue": "^2.6.10",
-    "@webdatarocks/vue-webdatarocks": "^1.4.10"
+    "@webdatarocks/vue-webdatarocks": "latest",
+    "vue": "^2.7.7"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.1.0",
-    "@vue/cli-plugin-eslint": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
-    "babel-eslint": "^10.0.3",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/essential",
-      "eslint:recommended"
-    ],
-    "rules": {},
-    "parserOptions": {
-      "parser": "babel-eslint"
-    }
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions"
-  ]
+    "@vitejs/plugin-legacy": "^6.1.1",
+    "@vitejs/plugin-vue2": "^2.3.3",
+    "terser": "^5.14.2",
+    "vite": "^6.0.0"
+  }
 }

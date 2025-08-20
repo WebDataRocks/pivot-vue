@@ -1,0 +1,23 @@
+<template>
+  <header class="mainheader fixed-head">
+    <div class="container-xl">
+      <a href="https://www.webdatarocks.com/?r=gh_sample_vue" target="blank" rel="noopener noreferrer" class="logo">
+        <img src="https://www.webdatarocks.com/base/assets/img/logo.svg" alt="" />
+      </a>
+      <ul class="mainnav">
+        <li>
+          <a href="https://www.webdatarocks.com/demos/vue/pivot-table-demo/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Demos</a>
+        </li>
+        <li>
+          <a href="https://www.webdatarocks.com/doc/integration-with-vue/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Integration with Vue</a>
+        </li>
+        <li>
+          <a href="https://www.webdatarocks.com/doc/vue/intro?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Docs</a>
+        </li>
+        <li>
+          <a href="https://www.webdatarocks.com/about-us/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">About us</a>
+        </li>
+      </ul>
+    </div>
+  </header>
+</template>

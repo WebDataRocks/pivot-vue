@@ -1,10 +1,11 @@
 # Example of integrating WebDataRocks with the Vue 2 framework
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/vue.png)](https://www.webdatarocks.com/?r=rm_vue)
 
-This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/) with the [Vue 2 framework](https://v2.vuejs.org/).
+This repository contains a sample project that shows how to integrate [WebDataRocks](https://www.webdatarocks.com/?r=rm_vue) with the [Vue 2 framework](https://v2.vuejs.org/).
 
 ## Prerequisites
 
-- [Node.js 8 or later](https://nodejs.org/en/)
+- [Node.js 18 or later](https://nodejs.org/en/)
 
 ## Run the project
 
@@ -19,14 +20,14 @@ npm install
 ```
 3. Run the project:
 ```bash
-npm run serve
+npm run dev
 ```
-You can access the project at `http://localhost:8080/`.
+You can access the project at `http://localhost:5173/`.
 
 ## Related docs
 
-For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting/).
+For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting?r=rm_vue).
 
 ## Support
 
-For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
+For WebDataRocks-related questions, bug reports, and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues?r=rm_vue).
