@@ -9,7 +9,7 @@
           <a href="https://www.webdatarocks.com/demos/vue/pivot-table-demo/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Demos</a>
         </li>
         <li>
-          <a href="https://www.webdatarocks.com/doc/integration-with-vue/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Integration with Vue</a>
+          <a href="https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting/?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Integration with Vue</a>
         </li>
         <li>
           <a href="https://www.webdatarocks.com/doc/vue/intro?r=gh_sample_vue" target="blank" rel="noopener noreferrer">Docs</a>
