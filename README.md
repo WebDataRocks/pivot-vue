@@ -28,6 +28,12 @@ You can access the project at `http://localhost:5173/`.
 
 For details on how to integrate WebDataRocks into existing Vue projects, check out the [integration with Vue](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting?r=rm_vue).
 
+## WebDataRocks licensing
+
+This WebDataRocks sample project is released under the MIT license (free and open-source).
+
+[WebDataRocks](https://www.webdatarocks.com/) is distributed under the terms and conditions of WebDataRocks End User License Agreement: https://www.webdatarocks.com/license-agreement/.
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues?r=rm_vue).
